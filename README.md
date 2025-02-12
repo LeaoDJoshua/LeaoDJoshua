@@ -1,6 +1,6 @@
 <h1>Hi, I'm Joshua, an IT Professional
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
