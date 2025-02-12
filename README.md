@@ -6,7 +6,7 @@
 
 
 <h2> 📄 Certifications:</h2>
-- [CompTIA A+](https://github.com/joshmadakor1/Algorithms-Practice)
+- [CompTIA A+](https://github.com/user-attachments/files/18760215/CompTIA.A%2B.ce.certificate.pdf)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
